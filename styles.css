@@ -1,0 +1,11 @@
+h1
+{
+    text-align: center;
+    font: bold;
+}
+canvas
+{
+    background-color: #1e8cff;
+    display: flex;
+    margin: 0 auto;
+}
